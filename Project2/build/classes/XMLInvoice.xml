@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_191" class="java.beans.XMLDecoder">
+ <string>Richter</string>
+ <string>Blom</string>
+ <string>Winter</string>
+ <string>Summer</string>
+ <string>1</string>
+ <string>1</string>
+ <string>150</string>
+ <string>250</string>
+</java>
